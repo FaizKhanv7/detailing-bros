@@ -1,0 +1,33 @@
+{
+  "idea": "car detailing business called \"detailing bros\"",
+  "templateId": "bold",
+  "content": {
+    "siteKind": "business",
+    "title": "Detailing Bros",
+    "tagline": "Premium car care specialists",
+    "intro": "Detailing Bros delivers showroom‑shine results with meticulous interior cleaning, paint protection, and custom detailing packages for any vehicle.",
+    "sections": [
+      {
+        "title": "Exterior Services",
+        "body": "Hand wash, paint correction, ceramic coating, and wheel restoration to protect and enhance your car’s finish."
+      },
+      {
+        "title": "Interior Services",
+        "body": "Deep vacuum, steam cleaning, leather conditioning, and odor elimination for a fresh, spotless cabin."
+      },
+      {
+        "title": "Custom Packages",
+        "body": "Tailored bundles combine exterior and interior work, plus add‑ons like headlight restoration and engine bay detailing."
+      }
+    ],
+    "cta": {
+      "label": "Book now",
+      "note": "Schedule your appointment online or call us"
+    },
+    "closing": {
+      "headline": "Your car deserves the best",
+      "body": "Experience the difference of professional detailing with Detailing Bros today."
+    },
+    "footerNote": "Quality. Care. Shine"
+  }
+}
